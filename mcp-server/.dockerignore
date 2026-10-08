@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.qdrant_storage/
+.env
+.git
+.gitignore
+*.log
+chatbot/node_modules/
+chatbot/.next/
+chatbot/dist/
+.vscode/

@@ -1,0 +1,7 @@
+{
+  "built_at": "2026-07-02T15:15:15+0530",
+  "chunk_count": 32,
+  "model": "BAAI/bge-small-en-v1.5",
+  "collection": "catalog_knowledge",
+  "qdrant_url": "http://localhost:6333"
+}

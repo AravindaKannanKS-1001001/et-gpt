@@ -1,0 +1,42 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+dist/
+build/
+*.egg-info/
+*.egg
+
+# MCP vector storage - auto-created on first run, do not commit
+.qdrant_storage/
+.qdrant/
+
+# Secrets - never commit real .env
+.env
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
+*.tmp
+
+# --- MCP standalone: ignore frontend/monorepo leftovers ---
+# This repo is MCP-only. Chatbot is separate (better-chatbot fork).
+chatbot/
+node_modules/
+chatbot/.env
+chatbot/node_modules/
+chatbot/.next/
+chatbot/dist/
+
+# LLM / chatbot configs not needed for MCP
+litellm_config.yaml
+mcp.json
+inspector_*.json
+
+# Docker volumes
+postgres_data/

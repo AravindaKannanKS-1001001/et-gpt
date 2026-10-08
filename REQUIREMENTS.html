@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>ET-GPT Requirements</title>
+<style>
+:root{--brand:#003399;--ink:#212529;--bg:#f6f7fb;--card:#fff;--a:#0d9488;--b:#d97706;--c:#7c3aed;--d:#dc2626}
+*{box-sizing:border-box}body{margin:0;font-family:Poppins,"Open Sans",system-ui,sans-serif;background:var(--bg);color:var(--ink);line-height:1.55}
+header{background:linear-gradient(135deg,var(--brand),#1d4ed8);color:#fff;padding:48px 20px;text-align:center}
+header h1{margin:0 0 8px;font-size:2.2rem}header p{margin:0;opacity:.9}
+main{max-width:1000px;margin:0 auto;padding:24px 16px 64px}
+h2{color:var(--brand);margin-top:40px}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:16px}
+.card{background:var(--card);border-radius:12px;padding:18px;border-top:5px solid var(--brand);box-shadow:0 2px 8px #0001}
+.card.a{border-color:var(--a)}.card.b{border-color:var(--b)}.card.c{border-color:var(--c)}.card.d{border-color:var(--d)}
+.card h3{margin:0 0 6px}
+table{width:100%;border-collapse:collapse;background:var(--card);border-radius:12px;overflow:hidden;box-shadow:0 2px 8px #0001}
+th{background:var(--brand);color:#fff;text-align:left}th,td{padding:10px 12px;border-bottom:1px solid #e5e7eb}
+.flow{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.step{background:var(--brand);color:#fff;padding:8px 14px;border-radius:999px;font-size:.9rem}.arrow{color:var(--brand);font-weight:700}
+.tag{display:inline-block;padding:2px 10px;border-radius:999px;font-size:.8rem;color:#fff}
+.t1{background:var(--a)}.t2{background:var(--b)}.t3{background:var(--c)}.t4{background:var(--d)}
+@media(max-width:600px){header h1{font-size:1.6rem}}
+</style></head><body>
+<header><h1>ET-GPT</h1><p>Embeddable AI support assistant for EarthTekniks — requirements overview (Phase 0)</p></header>
+<main>
+<h2>What we are building</h2>
+<div class="grid">
+<div class="card"><h3>Chat widget</h3>Floating launcher, expandable panel, streaming answers, history, mic and attachments. Drops into the mock site, then production, with two settings: origin and widget ID.</div>
+<div class="card a"><h3>Smart assistant</h3>Understands company questions, optics calculations and catalog lookups, and chains them: knowledge → calculation → catalog. Asks when unsure, never guesses.</div>
+<div class="card b"><h3>Safe by design</h3>Human approval for every calculation, PII redaction, scope guardrails, rate and time limits, per-user data isolation.</div>
+<div class="card c"><h3>Admin insights</h3>Separate dashboard: questions, trends, common issues, unanswered queries, usage and improvement ideas.</div>
+</div>
+
+<h2>How a request flows</h2>
+<div class="flow"><span class="step">Message</span><span class="arrow">→</span><span class="step">Redact PII</span><span class="arrow">→</span><span class="step">Guardrails</span><span class="arrow">→</span><span class="step">Classify (OpenJEV)</span><span class="arrow">→</span><span class="step">Plan</span><span class="arrow">→</span><span class="step">MCP tools</span><span class="arrow">→</span><span class="step">Approval form</span><span class="arrow">→</span><span class="step">Answer</span></div>
+
+<h2>Who can do what</h2>
+<table><tr><th>Role</th><th>Limits</th><th>Can use</th><th>Memory</th></tr>
+<tr><td><span class="tag t1">Guest</span></td><td>5 / day, 2 / min</td><td>Read-only knowledge &amp; catalog</td><td>This session only</td></tr>
+<tr><td><span class="tag t2">Verified user</span></td><td>50 / day, 5 / min</td><td>+ calculator, uploads, voice</td><td>Session + long-term</td></tr>
+<tr><td><span class="tag t3">Admin</span></td><td>Configurable</td><td>Everything + analytics &amp; config</td><td>All</td></tr></table>
+<p>One "request" = one user message, however many model or tool calls it needs. Each request also has a step and time budget.</p>
+
+<h2>Built from existing parts</h2>
+<table><tr><th>Need</th><th>Library / service</th></tr>
+<tr><td>App foundation</td><td>vercel/chatbot (Next.js, AI SDK, shadcn/ui)</td></tr>
+<tr><td>Auth, roles</td><td>Better Auth (anonymous guests, verified email, admin)</td></tr>
+<tr><td>Database, isolation, vectors</td><td>Postgres with row-level security (+ pgvector later)</td></tr>
+<tr><td>Language model</td><td>NVIDIA Nemotron (mock for tests)</td></tr>
+<tr><td>Routing &amp; classification</td><td>OpenJEV (verified live, ~0.7 s)</td></tr>
+<tr><td>Tools</td><td>Existing MCP servers (calculator, knowledge, catalog)</td></tr>
+<tr><td>Rate limits</td><td>rate-limiter-flexible</td></tr>
+<tr><td>PII redaction</td><td>openredaction → Microsoft Presidio if needed</td></tr>
+<tr><td>Memory</td><td>mem0 + pgvector; pg-boss background workers</td></tr>
+<tr><td>Skills</td><td>SKILL.md format</td></tr>
+<tr><td>Voice</td><td>Whisper in the browser (free)</td></tr>
+<tr><td>Deployment</td><td>Docker Compose</td></tr></table>
+
+<h2>Delivery phases</h2>
+<div class="grid">
+<div class="card"><h3>0 · Docs &amp; research</h3>This page, SRS, project notes. <span class="tag t1">done</span></div>
+<div class="card a"><h3>1 · Foundation &amp; widget</h3>App, embed, mock LLM, brand styling.</div>
+<div class="card b"><h3>2 · Auth &amp; isolation</h3>Roles, RLS, quotas, leak tests.</div>
+<div class="card c"><h3>3 · Tools &amp; skills</h3>MCP permissions, guardrails, planner, approval form.</div>
+<div class="card d"><h3>4 · Memory &amp; multimodal</h3>Long-term memory, workers, images, audio, analytics.</div>
+<div class="card"><h3>5 · Ship</h3>Docker, production checks, one live NVIDIA test.</div>
+</div>
+
+<h2>Risks we are watching</h2>
+<ul><li>OpenJEV is a community-funded third-party service; a fallback router is planned and it only ever sees redacted text.</li>
+<li>Nemotron may not read images; a free NVIDIA vision model is the fallback.</li>
+<li>PII redaction is never perfect; we will publish a measured recall number.</li>
+<li>Anonymous guests can be abused; IP and session limits apply.</li></ul>
+</main></body></html>

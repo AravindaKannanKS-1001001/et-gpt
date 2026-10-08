@@ -1,0 +1,67 @@
+# ET-MCP only. The chatbot and website deploy separately; point the chatbot's
+# widget MCP settings at the URLs below (or the hostnames it can reach).
+#
+#   catalog http://<host>:8001/mcp   site http://<host>:8002/mcp   calc http://<host>:8003/mcp
+#
+# Ports bind to 127.0.0.1 by default; put a TLS reverse proxy in front for
+# remote clients and add its hostname to MCP_ALLOWED_HOSTS.
+x-mcp: &mcp
+  build:
+    context: .
+    dockerfile: Dockerfile.mcp
+  restart: unless-stopped
+  env_file:
+    - .env
+
+services:
+  et-mcp-catalog:
+    <<: *mcp
+    command: ["python", "-m", "et_mcp.server", "--server", "catalog", "--transport", "streamable-http", "--port", "8001", "--host", "0.0.0.0"]
+    ports:
+      - "127.0.0.1:8001:8001"
+    environment:
+      MCP_ALLOWED_HOSTS: "et-mcp-catalog:8001,${MCP_PUBLIC_HOSTS:-localhost:8001}"
+      QDRANT_URL: /app/.qdrant_storage
+    volumes:
+      - catalog_qdrant:/app/.qdrant_storage
+    healthcheck:
+      test: ["CMD", "python", "-c", "import socket; s=socket.create_connection(('127.0.0.1',8001),timeout=2); s.close()"]
+      interval: 15s
+      timeout: 5s
+      retries: 5
+      start_period: 10s
+
+  et-mcp-site:
+    <<: *mcp
+    command: ["python", "-m", "et_mcp.server", "--server", "site", "--transport", "streamable-http", "--port", "8002", "--host", "0.0.0.0"]
+    ports:
+      - "127.0.0.1:8002:8002"
+    environment:
+      MCP_ALLOWED_HOSTS: "et-mcp-site:8002,${MCP_PUBLIC_HOSTS:-localhost:8002}"
+    healthcheck:
+      test: ["CMD", "python", "-c", "import socket; s=socket.create_connection(('127.0.0.1',8002),timeout=2); s.close()"]
+      interval: 15s
+      timeout: 5s
+      retries: 5
+      start_period: 10s
+
+  et-mcp-calculator:
+    <<: *mcp
+    command: ["python", "-m", "et_mcp.server", "--server", "calc", "--transport", "streamable-http", "--port", "8003", "--host", "0.0.0.0"]
+    ports:
+      - "127.0.0.1:8003:8003"
+    environment:
+      MCP_ALLOWED_HOSTS: "et-mcp-calculator:8003,${MCP_PUBLIC_HOSTS:-localhost:8003}"
+      QDRANT_URL: /app/.qdrant_storage
+    volumes:
+      - calc_qdrant:/app/.qdrant_storage
+    healthcheck:
+      test: ["CMD", "python", "-c", "import socket; s=socket.create_connection(('127.0.0.1',8003),timeout=2); s.close()"]
+      interval: 15s
+      timeout: 5s
+      retries: 5
+      start_period: 10s
+
+volumes:
+  catalog_qdrant:
+  calc_qdrant:

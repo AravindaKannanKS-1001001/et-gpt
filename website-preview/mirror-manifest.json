@@ -1,0 +1,3249 @@
+{
+  "source": "https://etplautomation.com/",
+  "capturedAt": "2026-10-03T13:31:49.532Z",
+  "pages": 24,
+  "assets": 135,
+  "files": [
+    {
+      "source": "https://etplautomation.com/",
+      "local": "index.html",
+      "bytes": 56826,
+      "type": "text/html"
+    },
+    {
+      "source": "https://etplautomation.com/assets/images/favicon.png",
+      "local": "assets/images/favicon.png",
+      "bytes": 2377,
+      "type": "image/png"
+    },
+    {
+      "source": "https://etplautomation.com/assets/css/responsive.css",
+      "local": "assets/css/responsive.css",
+      "bytes": 9362,
+      "type": "text/css"
+    },
+    {
+      "source": "https://etplautomation.com/assets/css/slick.css",
+      "local": "assets/css/slick.css",
+      "bytes": 1775,
+      "type": "text/css"
+    },
+    {
+      "source": "https://etplautomation.com/assets/css/jquery.fancybox.min.css",
+      "local": "assets/css/jquery.fancybox.min.css",
+      "bytes": 12795,
+      "type": "text/css"
+    },
+    {
+      "source": "https://etplautomation.com/assets/css/all.min.css",
+      "local": "assets/css/all.min.css",
+      "bytes": 57333,
+      "type": "text/css"
+    },
+    {
+      "source": "https://etplautomation.com/assets/css/perfect-scrollbar.css",
+      "local": "assets/css/perfect-scrollbar.css",
+      "bytes": 2598,
+      "type": "text/css"
+    },
+    {
+      "source": "https://etplautomation.com/index.html",
+      "local": "index.html",
+      "bytes": 56826,
+      "type": "text/html"
+    },
+    {
+      "source": "https://etplautomation.com/assets/css/color.css",
+      "local": "assets/css/color.css",
+      "bytes": 4810,
+      "type": "text/css"
+    },
+    {
+      "source": "https://etplautomation.com/assets/css/flaticon.css",
+      "local": "assets/css/flaticon.css",
+      "bytes": 2557,
+      "type": "text/css"
+    },
+    {
+      "source": "https://etplautomation.com/assets/css/animate.min.css",
+      "local": "assets/css/animate.min.css",
+      "bytes": 58139,
+      "type": "text/css"
+    },
+    {
+      "source": "https://etplautomation.com/assets/css/style.css",
+      "local": "assets/css/style.css",
+      "bytes": 93008,
+      "type": "text/css"
+    },
+    {
+      "source": "https://etplautomation.com/assets/css/bootstrap.min.css",
+      "local": "assets/css/bootstrap.min.css",
+      "bytes": 160409,
+      "type": "text/css"
+    },
+    {
+      "source": "https://etplautomation.com/assets/images/retina-logo.png",
+      "local": "assets/images/retina-logo.png",
+      "bytes": 5964,
+      "type": "image/png"
+    },
+    {
+      "source": "https://etplautomation.com/ampoule-inspection-system.html",
+      "local": "ampoule-inspection-system.html",
+      "bytes": 39688,
+      "type": "text/html"
+    },
+    {
+      "source": "https://etplautomation.com/ntrm.html",
+      "local": "ntrm.html",
+      "bytes": 39084,
+      "type": "text/html"
+    },
+    {
+      "source": "https://etplautomation.com/tipping-paper-inspection-system.html",
+      "local": "tipping-paper-inspection-system.html",
+      "bytes": 40875,
+      "type": "text/html"
+    },
+    {
+      "source": "https://etplautomation.com/sanitary-pad-inspection-system.html",
+      "local": "sanitary-pad-inspection-system.html",
+      "bytes": 40879,
+      "type": "text/html"
+    },
+    {
+      "source": "https://etplautomation.com/bearing-thread-missing-detection-system.html",
+      "local": "bearing-thread-missing-detection-system.html",
+      "bytes": 37978,
+      "type": "text/html"
+    },
+    {
+      "source": "https://etplautomation.com/capsule-inspection-system.html",
+      "local": "capsule-inspection-system.html",
+      "bytes": 38358,
+      "type": "text/html"
+    },
+    {
+      "source": "https://etplautomation.com/bloom-length-measurement-system.html",
+      "local": "bloom-length-measurement-system.html",
+      "bytes": 44048,
+      "type": "text/html"
+    },
+    {
+      "source": "https://etplautomation.com/print-quality-assurance-final-goods.html",
+      "local": "print-quality-assurance-final-goods.html",
+      "bytes": 41194,
+      "type": "text/html"
+    },
+    {
+      "source": "https://etplautomation.com/roller-bearing-inspection.html",
+      "local": "roller-bearing-inspection.html",
+      "bytes": 40960,
+      "type": "text/html"
+    },
+    {
+      "source": "https://etplautomation.com/assets/images/logo.png",
+      "local": "assets/images/logo.png",
+      "bytes": 5964,
+      "type": "image/png"
+    },
+    {
+      "source": "https://etplautomation.com/print-inspection-closures.html",
+      "local": "print-inspection-closures.html",
+      "bytes": 41736,
+      "type": "text/html"
+    },
+    {
+      "source": "https://etplautomation.com/empty-bottle-inspection-system.html",
+      "local": "empty-bottle-inspection-system.html",
+      "bytes": 47715,
+      "type": "text/html"
+    },
+    {
+      "source": "https://etplautomation.com/clamp-verification-inspections-system.html",
+      "local": "clamp-verification-inspections-system.html",
+      "bytes": 40156,
+      "type": "text/html"
+    },
+    {
+      "source": "https://etplautomation.com/netravs6.html",
+      "local": "netravs6.html",
+      "bytes": 42569,
+      "type": "text/html"
+    },
+    {
+      "source": "https://etplautomation.com/bites-inspection-system.html",
+      "local": "bites-inspection-system.html",
+      "bytes": 41886,
+      "type": "text/html"
+    },
+    {
+      "source": "https://etplautomation.com/thickness-length-measurement.html",
+      "local": "thickness-length-measurement.html",
+      "bytes": 45481,
+      "type": "text/html"
+    },
+    {
+      "source": "https://etplautomation.com/cable-inspection-system.html",
+      "local": "cable-inspection-system.html",
+      "bytes": 40175,
+      "type": "text/html"
+    },
+    {
+      "source": "https://etplautomation.com/technical-guide.html",
+      "local": "technical-guide.html",
+      "bytes": 51531,
+      "type": "text/html"
+    },
+    {
+      "source": "https://etplautomation.com/label-inspection-system.html",
+      "local": "label-inspection-system.html",
+      "bytes": 41014,
+      "type": "text/html"
+    },
+    {
+      "source": "https://etplautomation.com/contact.html",
+      "local": "contact.html",
+      "bytes": 47749,
+      "type": "text/html"
+    },
+    {
+      "source": "https://etplautomation.com/sealing-inspection-using-thermal-camera.html",
+      "local": "sealing-inspection-using-thermal-camera.html",
+      "bytes": 42101,
+      "type": "text/html"
+    },
+    {
+      "source": "https://etplautomation.com/ring-verification-in-ofc.html",
+      "local": "ring-verification-in-ofc.html",
+      "bytes": 41698,
+      "type": "text/html"
+    },
+    {
+      "source": "https://etplautomation.com/assets/images/resources/proj-img1-6.jpg",
+      "local": "assets/images/resources/proj-img1-6.jpg",
+      "bytes": 1071,
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://etplautomation.com/assets/images/resources/proj-img1-2.jpg",
+      "local": "assets/images/resources/proj-img1-2.jpg",
+      "bytes": 42640,
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://etplautomation.com/assets/images/resources/proj-img1-3.jpg",
+      "local": "assets/images/resources/proj-img1-3.jpg",
+      "bytes": 48728,
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://etplautomation.com/assets/images/resources/proj-img1-8.jpg",
+      "local": "assets/images/resources/proj-img1-8.jpg",
+      "bytes": 1071,
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://etplautomation.com/assets/images/resources/proj-img1-5.jpg",
+      "local": "assets/images/resources/proj-img1-5.jpg",
+      "bytes": 1071,
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://etplautomation.com/assets/images/resources/proj-img1-1.jpg",
+      "local": "assets/images/resources/proj-img1-1.jpg",
+      "bytes": 48976,
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://etplautomation.com/assets/images/resources/proj-img1-4.jpg",
+      "local": "assets/images/resources/proj-img1-4.jpg",
+      "bytes": 47443,
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://etplautomation.com/assets/images/resources/proj-img1-7.jpg",
+      "local": "assets/images/resources/proj-img1-7.jpg",
+      "bytes": 1071,
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://etplautomation.com/about.html",
+      "local": "about.html",
+      "bytes": 25617,
+      "type": "text/html"
+    },
+    {
+      "source": "https://etplautomation.com/assets/images/resources/about-image1.png",
+      "local": "assets/images/resources/about-image1.png",
+      "bytes": 253574,
+      "type": "image/png"
+    },
+    {
+      "source": "https://etplautomation.com/assets/images/resources/testi-img1-3.png",
+      "local": "assets/images/resources/testi-img1-3.png",
+      "bytes": 771,
+      "type": "image/png"
+    },
+    {
+      "source": "https://etplautomation.com/assets/images/1.jpg",
+      "local": "assets/images/1.jpg",
+      "bytes": 25493,
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://etplautomation.com/assets/images/3.jpg",
+      "local": "assets/images/3.jpg",
+      "bytes": 27173,
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://etplautomation.com/assets/images/2.jpg",
+      "local": "assets/images/2.jpg",
+      "bytes": 26778,
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://etplautomation.com/assets/images/resources/testi-img1-1.png",
+      "local": "assets/images/resources/testi-img1-1.png",
+      "bytes": 771,
+      "type": "image/png"
+    },
+    {
+      "source": "https://etplautomation.com/assets/images/5.jpg",
+      "local": "assets/images/5.jpg",
+      "bytes": 25590,
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://etplautomation.com/assets/images/4.jpg",
+      "local": "assets/images/4.jpg",
+      "bytes": 25377,
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://etplautomation.com/assets/images/6.jpg",
+      "local": "assets/images/6.jpg",
+      "bytes": 29638,
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://etplautomation.com/assets/images/resources/testi-img1-2.png",
+      "local": "assets/images/resources/testi-img1-2.png",
+      "bytes": 771,
+      "type": "image/png"
+    },
+    {
+      "source": "https://etplautomation.com/assets/images/7.jpg",
+      "local": "assets/images/7.jpg",
+      "bytes": 32765,
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://etplautomation.com/assets/images/8.jpg",
+      "local": "assets/images/8.jpg",
+      "bytes": 33941,
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://etplautomation.com/assets/images/10.jpg",
+      "local": "assets/images/10.jpg",
+      "bytes": 25017,
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://etplautomation.com/assets/images/19.jpg",
+      "local": "assets/images/19.jpg",
+      "bytes": 28425,
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://etplautomation.com/assets/images/16.jpg",
+      "local": "assets/images/16.jpg",
+      "bytes": 29398,
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://etplautomation.com/assets/images/14.jpg",
+      "local": "assets/images/14.jpg",
+      "bytes": 27069,
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://etplautomation.com/assets/images/13.jpg",
+      "local": "assets/images/13.jpg",
+      "bytes": 29658,
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://etplautomation.com/assets/images/15.jpg",
+      "local": "assets/images/15.jpg",
+      "bytes": 27686,
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://etplautomation.com/assets/images/20.jpg",
+      "local": "assets/images/20.jpg",
+      "bytes": 24165,
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://etplautomation.com/assets/images/9.jpg",
+      "local": "assets/images/9.jpg",
+      "bytes": 22808,
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://etplautomation.com/assets/images/11.jpg",
+      "local": "assets/images/11.jpg",
+      "bytes": 26490,
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://etplautomation.com/assets/images/18.jpg",
+      "local": "assets/images/18.jpg",
+      "bytes": 29622,
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://etplautomation.com/assets/images/17.jpg",
+      "local": "assets/images/17.jpg",
+      "bytes": 33604,
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://etplautomation.com/assets/images/12.jpg",
+      "local": "assets/images/12.jpg",
+      "bytes": 31844,
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://etplautomation.com/assets/images/24.jpg",
+      "local": "assets/images/24.jpg",
+      "bytes": 27604,
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://etplautomation.com/assets/images/25.jpg",
+      "local": "assets/images/25.jpg",
+      "bytes": 33585,
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://etplautomation.com/assets/images/22.jpg",
+      "local": "assets/images/22.jpg",
+      "bytes": 40524,
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://etplautomation.com/assets/js/popper.min.js",
+      "local": "assets/js/popper.min.js",
+      "bytes": 21262,
+      "type": "text/javascript"
+    },
+    {
+      "source": "https://etplautomation.com/assets/js/bootstrap.min.js",
+      "local": "assets/js/bootstrap.min.js",
+      "bytes": 60180,
+      "type": "text/javascript"
+    },
+    {
+      "source": "https://etplautomation.com/assets/images/23.jpg",
+      "local": "assets/images/23.jpg",
+      "bytes": 26302,
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://etplautomation.com/assets/js/counterup.min.js",
+      "local": "assets/js/counterup.min.js",
+      "bytes": 14880,
+      "type": "text/javascript"
+    },
+    {
+      "source": "https://etplautomation.com/assets/js/jquery.min.js",
+      "local": "assets/js/jquery.min.js",
+      "bytes": 88147,
+      "type": "text/javascript"
+    },
+    {
+      "source": "https://etplautomation.com/assets/images/21.jpg",
+      "local": "assets/images/21.jpg",
+      "bytes": 32610,
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://etplautomation.com/assets/js/wow.min.js",
+      "local": "assets/js/wow.min.js",
+      "bytes": 8416,
+      "type": "text/javascript"
+    },
+    {
+      "source": "https://etplautomation.com/assets/js/jquery.fancybox.min.js",
+      "local": "assets/js/jquery.fancybox.min.js",
+      "bytes": 68253,
+      "type": "text/javascript"
+    },
+    {
+      "source": "https://etplautomation.com/assets/js/perfect-scrollbar.min.js",
+      "local": "assets/js/perfect-scrollbar.min.js",
+      "bytes": 19461,
+      "type": "text/javascript"
+    },
+    {
+      "source": "https://etplautomation.com/assets/js/particles.min.js",
+      "local": "assets/js/particles.min.js",
+      "bytes": 24009,
+      "type": "text/javascript"
+    },
+    {
+      "source": "https://etplautomation.com/assets/images/resources/serv-bg2.jpg",
+      "local": "assets/images/resources/serv-bg2.jpg",
+      "bytes": 1081,
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://etplautomation.com/assets/images/resources/serv-bg3.jpg",
+      "local": "assets/images/resources/serv-bg3.jpg",
+      "bytes": 1081,
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://etplautomation.com/assets/js/custom-scripts.js",
+      "local": "assets/js/custom-scripts.js",
+      "bytes": 17506,
+      "type": "text/javascript"
+    },
+    {
+      "source": "https://etplautomation.com/assets/js/slick.min.js",
+      "local": "assets/js/slick.min.js",
+      "bytes": 53179,
+      "type": "text/javascript"
+    },
+    {
+      "source": "https://etplautomation.com/assets/js/particle-int.js",
+      "local": "assets/js/particle-int.js",
+      "bytes": 2884,
+      "type": "text/javascript"
+    },
+    {
+      "source": "https://etplautomation.com/assets/images/resources/serv-bg1.jpg",
+      "local": "assets/images/resources/serv-bg1.jpg",
+      "bytes": 1081,
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://etplautomation.com/assets/images/parallax1.jpg",
+      "local": "assets/images/parallax1.jpg",
+      "bytes": 510393,
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://etplautomation.com/assets/images/resources/slide1-1.png",
+      "local": "assets/images/resources/slide1-1.png",
+      "bytes": 261016,
+      "type": "image/png"
+    },
+    {
+      "source": "https://etplautomation.com/assets/images/resources/slide3.png",
+      "local": "assets/images/resources/slide3.png",
+      "bytes": 936072,
+      "type": "image/png"
+    },
+    {
+      "source": "https://etplautomation.com/assets/images/resources/slide1.jpg",
+      "local": "assets/images/resources/slide1.jpg",
+      "bytes": 1680722,
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://etplautomation.com/assets/images/resources/slide2.png",
+      "local": "assets/images/resources/slide2.png",
+      "bytes": 1590285,
+      "type": "image/png"
+    },
+    {
+      "source": "https://etplautomation.com/assets/webfonts/fa-brands-400.woff",
+      "local": "assets/webfonts/fa-brands-400.woff",
+      "bytes": 89824,
+      "type": "font/woff"
+    },
+    {
+      "source": "https://etplautomation.com/assets/webfonts/fa-regular-400.woff2",
+      "local": "assets/webfonts/fa-regular-400.woff2",
+      "bytes": 13600,
+      "type": "font/woff2"
+    },
+    {
+      "source": "https://etplautomation.com/assets/webfonts/fa-regular-400.eot",
+      "local": "assets/webfonts/fa-regular-400.eot",
+      "bytes": 34390,
+      "type": "application/vnd.ms-fontobject"
+    },
+    {
+      "source": "https://etplautomation.com/assets/images/pattern-bg1.png",
+      "local": "assets/images/pattern-bg1.png",
+      "bytes": 41424,
+      "type": "image/png"
+    },
+    {
+      "source": "https://etplautomation.com/assets/webfonts/fa-brands-400.ttf",
+      "local": "assets/webfonts/fa-brands-400.ttf",
+      "bytes": 132728,
+      "type": "font/ttf"
+    },
+    {
+      "source": "https://etplautomation.com/assets/webfonts/fa-brands-400.woff2",
+      "local": "assets/webfonts/fa-brands-400.woff2",
+      "bytes": 76548,
+      "type": "font/woff2"
+    },
+    {
+      "source": "https://etplautomation.com/assets/images/resources/serv-bg4.jpg",
+      "local": "assets/images/resources/serv-bg4.jpg",
+      "bytes": 1081,
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://etplautomation.com/assets/webfonts/fa-regular-400.eot?",
+      "local": "assets/webfonts/fa-regular-400.eot",
+      "bytes": 34390,
+      "type": "application/vnd.ms-fontobject"
+    },
+    {
+      "source": "https://etplautomation.com/assets/webfonts/fa-brands-400.eot",
+      "local": "assets/webfonts/fa-brands-400.eot",
+      "bytes": 133034,
+      "type": "application/vnd.ms-fontobject"
+    },
+    {
+      "source": "https://etplautomation.com/assets/webfonts/fa-brands-400.eot?",
+      "local": "assets/webfonts/fa-brands-400.eot",
+      "bytes": 133034,
+      "type": "application/vnd.ms-fontobject"
+    },
+    {
+      "source": "https://etplautomation.com/assets/webfonts/fa-brands-400.svg",
+      "local": "assets/webfonts/fa-brands-400.svg",
+      "bytes": 715890,
+      "type": "image/svg+xml"
+    },
+    {
+      "source": "https://etplautomation.com/assets/images/pattern-bg2.jpg",
+      "local": "assets/images/pattern-bg2.jpg",
+      "bytes": 174370,
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://etplautomation.com/assets/webfonts/fa-solid-900.woff2",
+      "local": "assets/webfonts/fa-solid-900.woff2",
+      "bytes": 76120,
+      "type": "font/woff2"
+    },
+    {
+      "source": "https://etplautomation.com/assets/fonts/Flaticon.eot",
+      "local": "assets/fonts/Flaticon.eot",
+      "bytes": 18986,
+      "type": "application/vnd.ms-fontobject"
+    },
+    {
+      "source": "https://etplautomation.com/assets/webfonts/fa-solid-900.eot?",
+      "local": "assets/webfonts/fa-solid-900.eot",
+      "bytes": 194078,
+      "type": "application/vnd.ms-fontobject"
+    },
+    {
+      "source": "https://etplautomation.com/assets/fonts/Flaticon.woff2",
+      "local": "assets/fonts/Flaticon.woff2",
+      "bytes": 10496,
+      "type": "font/woff2"
+    },
+    {
+      "source": "https://etplautomation.com/assets/fonts/Flaticon.eot?",
+      "local": "assets/fonts/Flaticon.eot",
+      "bytes": 18986,
+      "type": "application/vnd.ms-fontobject"
+    },
+    {
+      "source": "https://etplautomation.com/assets/webfonts/fa-regular-400.ttf",
+      "local": "assets/webfonts/fa-regular-400.ttf",
+      "bytes": 34092,
+      "type": "font/ttf"
+    },
+    {
+      "source": "https://etplautomation.com/assets/webfonts/fa-solid-900.woff",
+      "local": "assets/webfonts/fa-solid-900.woff",
+      "bytes": 99004,
+      "type": "font/woff"
+    },
+    {
+      "source": "https://etplautomation.com/assets/webfonts/fa-solid-900.ttf",
+      "local": "assets/webfonts/fa-solid-900.ttf",
+      "bytes": 193792,
+      "type": "font/ttf"
+    },
+    {
+      "source": "https://etplautomation.com/assets/webfonts/fa-regular-400.woff",
+      "local": "assets/webfonts/fa-regular-400.woff",
+      "bytes": 16800,
+      "type": "font/woff"
+    },
+    {
+      "source": "https://etplautomation.com/assets/webfonts/fa-solid-900.eot",
+      "local": "assets/webfonts/fa-solid-900.eot",
+      "bytes": 194078,
+      "type": "application/vnd.ms-fontobject"
+    },
+    {
+      "source": "https://etplautomation.com/assets/webfonts/fa-regular-400.svg",
+      "local": "assets/webfonts/fa-regular-400.svg",
+      "bytes": 144322,
+      "type": "image/svg+xml"
+    },
+    {
+      "source": "https://etplautomation.com/assets/webfonts/fa-solid-900.svg",
+      "local": "assets/webfonts/fa-solid-900.svg",
+      "bytes": 849240,
+      "type": "image/svg+xml"
+    },
+    {
+      "source": "https://etplautomation.com/assets/images/resources/ampoule-1.jpg",
+      "local": "assets/images/resources/ampoule-1.jpg",
+      "bytes": 164032,
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://etplautomation.com/assets/images/title-shp2.png",
+      "local": "assets/images/title-shp2.png",
+      "bytes": 1234,
+      "type": "image/png"
+    },
+    {
+      "source": "https://etplautomation.com/assets/images/bg-shap1.jpg",
+      "local": "assets/images/bg-shap1.jpg",
+      "bytes": 2845,
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://etplautomation.com/assets/fonts/Flaticon.ttf",
+      "local": "assets/fonts/Flaticon.ttf",
+      "bytes": 18808,
+      "type": "font/ttf"
+    },
+    {
+      "source": "https://etplautomation.com/assets/images/title-shp1.png",
+      "local": "assets/images/title-shp1.png",
+      "bytes": 1532,
+      "type": "image/png"
+    },
+    {
+      "source": "https://etplautomation.com/assets/images/resources/about-widget-icon1.png",
+      "local": "assets/images/resources/about-widget-icon1.png",
+      "bytes": 178,
+      "type": "image/png"
+    },
+    {
+      "source": "https://etplautomation.com/assets/images/resources/about-widget-img.jpg",
+      "local": "assets/images/resources/about-widget-img.jpg",
+      "bytes": 273,
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://etplautomation.com/assets/js/ResizeSensor.min.js",
+      "local": "assets/js/ResizeSensor.min.js",
+      "bytes": 2284,
+      "type": "text/javascript"
+    },
+    {
+      "source": "https://etplautomation.com/assets/fonts/Flaticon.woff",
+      "local": "assets/fonts/Flaticon.woff",
+      "bytes": 12288,
+      "type": "font/woff"
+    },
+    {
+      "source": "https://etplautomation.com/assets/images/resources/widget-video-img.jpg",
+      "local": "assets/images/resources/widget-video-img.jpg",
+      "bytes": 95953,
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://etplautomation.com/assets/fonts/Flaticon.svg",
+      "local": "assets/fonts/Flaticon.svg",
+      "bytes": 112544,
+      "type": "image/svg+xml"
+    },
+    {
+      "source": "https://etplautomation.com/assets/images/resources/3.jpg",
+      "local": "assets/images/resources/3.jpg",
+      "bytes": 58860,
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://etplautomation.com/assets/images/resources/5.jpg",
+      "local": "assets/images/resources/5.jpg",
+      "bytes": 75359,
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://etplautomation.com/assets/images/resources/4.jpg",
+      "local": "assets/images/resources/4.jpg",
+      "bytes": 71230,
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://etplautomation.com/assets/images/resources/1.jpg",
+      "local": "assets/images/resources/1.jpg",
+      "bytes": 54666,
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://etplautomation.com/assets/images/resources/2.jpg",
+      "local": "assets/images/resources/2.jpg",
+      "bytes": 63177,
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://etplautomation.com/assets/images/resources/6.jpg",
+      "local": "assets/images/resources/6.jpg",
+      "bytes": 75214,
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://etplautomation.com/assets/images/resources/pct-03-768x162.jpg",
+      "local": "assets/images/resources/pct-03-768x162.jpg",
+      "bytes": 45939,
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://etplautomation.com/assets/js/theia-sticky-sidebar.min.js",
+      "local": "assets/js/theia-sticky-sidebar.min.js",
+      "bytes": 5429,
+      "type": "text/javascript"
+    },
+    {
+      "source": "https://etplautomation.com/assets/images/resources/ntrm-1.jpg",
+      "local": "assets/images/resources/ntrm-1.jpg",
+      "bytes": 220931,
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://etplautomation.com/assets/images/resources/pct-3.jpg",
+      "local": "assets/images/resources/pct-3.jpg",
+      "bytes": 299326,
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://etplautomation.com/assets/images/resources/napkin-1.jpg",
+      "local": "assets/images/resources/napkin-1.jpg",
+      "bytes": 237397,
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://etplautomation.com/assets/images/pagetop-bg.jpg",
+      "local": "assets/images/pagetop-bg.jpg",
+      "bytes": 505210,
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://etplautomation.com/assets/images/resources/bloom-4.jpg",
+      "local": "assets/images/resources/bloom-4.jpg",
+      "bytes": 38479,
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://etplautomation.com/assets/images/resources/bloom-1024x440.jpg",
+      "local": "assets/images/resources/bloom-1024x440.jpg",
+      "bytes": 87256,
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://etplautomation.com/assets/images/resources/filter-rod-6.jpg",
+      "local": "assets/images/resources/filter-rod-6.jpg",
+      "bytes": 59256,
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://etplautomation.com/assets/images/resources/bloom-2-600x448.png",
+      "local": "assets/images/resources/bloom-2-600x448.png",
+      "bytes": 215287,
+      "type": "image/png"
+    },
+    {
+      "source": "https://etplautomation.com/assets/images/resources/filter-rod-4.jpg",
+      "local": "assets/images/resources/filter-rod-4.jpg",
+      "bytes": 50649,
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://etplautomation.com/assets/images/resources/filter-rod-5.jpg",
+      "local": "assets/images/resources/filter-rod-5.jpg",
+      "bytes": 59761,
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://etplautomation.com/assets/images/resources/filter-rod-7.jpg",
+      "local": "assets/images/resources/filter-rod-7.jpg",
+      "bytes": 54471,
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://etplautomation.com/assets/images/resources/bloom-5.jpg",
+      "local": "assets/images/resources/bloom-5.jpg",
+      "bytes": 88345,
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://etplautomation.com/assets/images/resources/ebi.png",
+      "local": "assets/images/resources/ebi.png",
+      "bytes": 190954,
+      "type": "image/png"
+    },
+    {
+      "source": "https://etplautomation.com/assets/images/resources/filter-rod-2.jpg",
+      "local": "assets/images/resources/filter-rod-2.jpg",
+      "bytes": 54772,
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://etplautomation.com/assets/images/resources/filter-rod-1.jpg",
+      "local": "assets/images/resources/filter-rod-1.jpg",
+      "bytes": 57758,
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://etplautomation.com/assets/images/resources/bearing.jpg",
+      "local": "assets/images/resources/bearing.jpg",
+      "bytes": 74547,
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://etplautomation.com/assets/images/resources/roller.jpg",
+      "local": "assets/images/resources/roller.jpg",
+      "bytes": 356033,
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://etplautomation.com/assets/images/resources/battery-inspection.jpg",
+      "local": "assets/images/resources/battery-inspection.jpg",
+      "bytes": 178553,
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://etplautomation.com/assets/js/google-map-int.js",
+      "local": "assets/js/google-map-int.js",
+      "bytes": 3252,
+      "type": "text/javascript"
+    },
+    {
+      "source": "https://etplautomation.com/assets/images/resources/htl.jpg",
+      "local": "assets/images/resources/htl.jpg",
+      "bytes": 214032,
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://etplautomation.com/assets/images/resources/hutsun.png",
+      "local": "assets/images/resources/hutsun.png",
+      "bytes": 610453,
+      "type": "image/png"
+    },
+    {
+      "source": "https://etplautomation.com/assets/images/resources/blog-detail-img.jpg",
+      "local": "assets/images/resources/blog-detail-img.jpg",
+      "bytes": 172102,
+      "type": "image/jpeg"
+    },
+    {
+      "source": "https://etplautomation.com/assets/images/resources/thickness.png",
+      "local": "assets/images/resources/thickness.png",
+      "bytes": 13209464,
+      "type": "image/png"
+    }
+  ],
+  "failures": [
+    {
+      "source": "https://etplautomation.com/services-detail.html",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/project-detail.html",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/projects.html",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/solutions.html",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/wp-content/plugins/woocommerce/assets/fonts/star.eot",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/wp-content/plugins/woocommerce/assets/fonts/star.eot?",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/img/arrow-up.png",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/img/arrow-down.png",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/frame-grabber/10gige-vision/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/special-lens/1-1-8-5mp-m12-mount-lens/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/special-lens/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/line-scan-cameras/2k/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/fa-lens/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/fa-lens/1-1-8/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lights/special-light-source/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lights/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/area-scan-cameras/0-20mp/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.eot?",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/wp-content/woocommerce/assets/fonts/WooCommerce.ttf",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.eot",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/pixel-size-m/2-74/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/pixel-size-m/3-76/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/pixel-size-m/2-2/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/pixel-size-m/3-45/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/pixel-size-m/3-2/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/pixel-size-m/2-81/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/area-scan-cameras/over-100mp/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/pixel-size-m/1-5/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/area-scan-cameras/swir-area-scan-cameras/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/area-scan-cameras/51-70mp/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/area-scan-cameras/20-50mp/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/area-scan-cameras/area-scan-camera-premium/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/line-scan-cameras/4k/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/line-scan-cameras/swir/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/line-scan-cameras/8k/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/anti-vibration-lens-industrial-lens/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/line-scan-cameras/16k/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/coaxial-line-scan-lens-industrial-lens/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/microscope-lens/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/line-scan-lens/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/large-format-lens/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/telecentric-lens/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/macro-lens-industrial-lens/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lights/bar-light-source/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lights/backlight/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lights/ring-light/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lights/diffuse-light/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lights/coaxial-light-source/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lights/square-shadowless-light-source-fsq-series/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lights/line-scan-light-source/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lights/non-standard-light-source/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-controller/hm-series/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-controller/hrc-series/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-controller/hc-series/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-controller/hg-series/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/frame-grabber/camera-link/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/frame-grabber/coaxpress/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/pixel-size-m/2-4/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/pixel-size-m/1-85/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/pixel-size-m/5-86/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/pixel-size-m/3-4/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/pixel-size-m/9/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/pixel-size-m/5/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/pixel-size-m/5-5/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/uv-area-scan-camera/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/pixel-size-m/2/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/pixel-size-m/4-5/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/prism-area-scan-camera/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/pixel-size-m/4-8/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/pixel-size-m/2-5/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/pixel-size-m/4-6/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/pixel-size-m/2-315/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/pixel-size-m/3-1/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/mono-color/mono/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/sensor-type/ingaas/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/data-interface/camera-link/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/data-interface/gige-vision/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/data-interface/usb3-0/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/data-interface/gige/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/sensor-type/global-cmos/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/mono-color/color/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/sensor-type/bi-ccd/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/data-interface/2-5gige/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/data-interface/2-5gige-vision/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/data-interface/cxp6/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/data-interface/10-gige/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/data-interface/cxp10/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/data-interface/cxp12/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/ir-line-scan-camera/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/uv-line-scan-camera/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/nir-line-scan-camera/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/filedownload/951058",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/wp-content/uploads/2025/08/s-10.png",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/filedownload/951059",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/industrial-lens/page/4/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/industrial-lens/page/3/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/industrial-lens/page/18/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/backlight/page/4/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/industrial-lens/page/2/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/backlight/page/3/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/backlight/page/18/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/backlight/page/2/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/diffuse-light/page/2/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/diffuse-light/page/3/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/diffuse-light/page/18/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/bar-light-source/page/2/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/bar-light-source/page/3/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/diffuse-light/page/4/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/bar-light-source/page/18/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/bar-light-source/page/4/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/industrial-controller/page/18/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/industrial-controller/page/3/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/industrial-controller/page/2/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/industrial-controller/page/4/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/10-gige/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/frame-grabber/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/frame-grabber/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/line-scan-cameras/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/coaxial-light-cox2/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/cox4/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/dome-light-source-dm/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/agdl/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/c-mount/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/65mp-high-resolution-large-format-lens/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/6mm/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/5mp/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/gdl/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/flr/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/area-scan-cameras/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/circular-light-ar/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/brp3/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/auto-focus-lens-2/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/brc3/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/brc2/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/anti-vibration-lens-2/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/brl2/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/bottom-glow-backlight-brl/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/miniature-line-sweep-lt/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/open-hole-type-backlight-brd3/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/line-sweep-xs3/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/no-shadow-on-the-plane-pco/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-controller/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/point-light-source-dl/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/har/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/lar/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/parallel-backlightb-rp2/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/parallel-backlightb-rp2/page/2/",
+      "reason": "The operation was aborted due to timeout"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/highlight-line-sweep-gxs/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/light-source-controller/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/line-sweep-coaxial-coxs/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/uncategorized/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/zlt3/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/special-lens/3cmos-lens/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/strip-light-lr2/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/special-lens/uv-lens/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/special-lens/scheimpflug-lens/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/special-lens/magnifying-lens/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/special-lens/360-degree-appearance-inspection-box-equipment/r",
+      "reason": "fetch failed"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/special-lens/motorized-bi-telecentric-lens/r",
+      "reason": "fetch failed"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/special-lens/zoom-microscope-lens/r",
+      "reason": "fetch failed"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/special-lens/swir-lens/r",
+      "reason": "fetch failed"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/special-lens/page/3/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/special-lens/360imaging-system-inner-surface-lens/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/special-lens/visible-near-infrared-lens/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/special-lens/page/5/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/special-lens/360imaging-systemouter-surfacelens/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/special-lens/page/2/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/special-lens/page/4/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/fa-lens/1-4/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/fa-lens/auto-focus-lens/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/fa-lens/4-3/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/fa-lens/laser-coaxial-lens/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/fa-lens/anti-vibration-lens/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/fa-lens/1-1/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/fa-lens/1/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/fa-lens/macro-lens/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/fa-lens/1-1-7/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/fa-lens/2-3/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/fa-lens/page/4/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/fa-lens/page/2/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/fa-lens/page/5/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/fa-lens/page/3/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/mono-color/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/area-scan-camera/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/12mp/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/gige/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/rolling-cmos/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/page/3/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/page/4/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/page/27/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/page/29/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/page/2/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/page/28/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/2026/02/20/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/author/etpauto-admin/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lights/page/3/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lights/page/6/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lights/special-light-source/page/2/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lights/page/5/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/2021/12/17/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lights/page/4/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lights/page/2/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/area-scan-cameras/0-20mp/page/4/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/area-scan-cameras/0-20mp/page/3/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/area-scan-cameras/0-20mp/page/2/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/101mp/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/pixel-size-m/3-45/page/2/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/127mp/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/151mp/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/cxp6/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/pixel-size-m/2-74/page/2/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/cxp10/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/103mp/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/global-cmos/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/120mp/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/245mp/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/cxp12/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/61mp/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/65mp/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/usb-3-0/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/604mp/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/camera-link/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/246mp/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/area-scan-cameras/area-scan-camera-premium/page/5/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/area-scan-cameras/area-scan-camera-premium/page/4/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/area-scan-cameras/area-scan-camera-premium/page/2/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/1-5mp/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/mono/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/area-scan-cameras/area-scan-camera-premium/page/3/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/2-3mp/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/line-scan-cameras/4k/page/2/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/line-scan-cameras/8k/page/2/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/3-2mp/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/microscope-lens/objective-lens/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/microscope-lens/page/2/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/line-scan-cameras/8k/page/3/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/line-scan-cameras/16k/page/2/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/line-scan-cameras/16k/page/3/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/line-scan-lens/16k5%ce%bc/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/line-scan-lens/16k3-5%ce%bc/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/line-scan-lens/page/4/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/line-scan-lens/page/5/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/large-format-lens/120mp-151mp-lens/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/large-format-lens/29mp/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/line-scan-lens/page/2/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/microscope-lens/tube-lens/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/line-scan-lens/12k5%ce%bc/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/line-scan-lens/coaxial-line-scan-lens/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/line-scan-lens/8k7%ce%bc/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/line-scan-lens/8k5%ce%bc/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/large-format-lens/151mp-large-format-lens/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/telecentric-lens/2-3-65mm-standard-telecentric-lens/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/line-scan-lens/page/3/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/telecentric-lens/non-standard-telecentric-lens/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/line-scan-lens/4k7%ce%bc/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/large-format-lens/autofocus-large-format-lens/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/telecentric-lens/page/2/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/telecentric-lens/2-3-110mm-standard-telecentric-lens/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/large-format-lens/65mp-high-resolution-large-format-lens-large-format-lens/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/large-format-lens/page/3/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/telecentric-lens/1-1-standard-telecentric-lens/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/telecentric-lens/65mp-telecentric-lens/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/telecentric-lens/page/3/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lights/ring-light/high-angle-ring-light-source-ar-series/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/telecentric-lens/page/8/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lights/non-standard-light-source/page/2/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/large-format-lens/page/2/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/telecentric-lens/page/4/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/12-3mp/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/telecentric-lens/page/7/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/20mp/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lights/bar-light-source/strip-light-source-lr2-series/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/telecentric-lens/page/6/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/2mp/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/6-3mp/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/2-8mp/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/ingaas/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/0-3mp/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/8-3mp/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/7mp/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/prism-area-scan-camera/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/color/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/5-3mp/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/swir-area-scan-camera/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/1-3mp/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/21mp/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/10mp/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/8mp/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/31mp/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/uv-area-scan-camera/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/4mp/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/9mp/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/71mp/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/46mp/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/sfp/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/26mp/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/25mp/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/mono-color/mono/page/5/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/0-5k/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/mono-color/mono/page/2/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/50mp/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/1k/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/swir-line-scan-camera/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/mono-color/mono/page/4/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/data-interface/camera-link/page/3/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/mono-color/mono/page/3/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/mono-color/mono/page/6/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/nir-line-scan-camera/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/2k/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/data-interface/camera-link/page/2/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/sensor-type/global-cmos/page/4/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/sensor-type/global-cmos/page/2/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/mono-color/color/page/2/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/sensor-type/global-cmos/page/3/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/sensor-type/global-cmos/page/6/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/sensor-type/global-cmos/page/5/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/4k/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/data-interface/cxp10/page/2/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/uv-line-scan-camera/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/sensor-type/bi-ccd/page/2/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/8k/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/bi-ccd/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/line-scan-camera/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/15k/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/4mm/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/9k/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/16k/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/industrial-lens/page/6/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/industrial-lens/page/15/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/industrial-lens/page/17/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/industrial-lens/page/7/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/industrial-lens/page/5/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/backlight/page/7/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/backlight/page/16/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/industrial-lens/page/16/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/backlight/page/6/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/backlight/page/15/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/backlight/page/17/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/backlight/page/5/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/diffuse-light/page/6/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/diffuse-light/page/5/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/diffuse-light/page/7/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/bar-light-source/page/6/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/diffuse-light/page/15/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/diffuse-light/page/16/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/bar-light-source/page/7/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/bar-light-source/page/5/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/diffuse-light/page/17/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/bar-light-source/page/16/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/industrial-controller/page/16/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/bar-light-source/page/17/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/bar-light-source/page/15/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/industrial-controller/page/5/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/industrial-controller/page/15/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/frame-grabber/page/2/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/light-source-controller/mini-digital-constant-voltage-controller/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/light-source-controller/digital-point-light-controller/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/light-source-controller/mini-analog-controller/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/industrial-controller/page/7/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/industrial-controller/page/6/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/light-source-controller/digital-constant-voltage-controller-dcv/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/industrial-controller/page/17/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/frame-grabber/page/2/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/line-scan-cameras/page/2/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/line-scan-cameras/page/8/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/coaxial-light-cox2/page/3/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/cox4/page/2/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/cox4/page/3/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/10-gige/page/2/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/line-scan-cameras/page/7/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/line-scan-cameras/page/3/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/line-scan-cameras/page/6/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/gdl/page/2/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/line-scan-cameras/page/4/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/coaxial-light-cox2/page/2/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/agdl/page/2/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/dome-light-source-dm/page/2/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/dome-light-source-dm/page/3/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/brp3/page/2/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/5mp/page/2/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/area-scan-cameras/page/4/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/flr/page/2/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/area-scan-cameras/page/2/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/area-scan-cameras/page/3/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/brp3/page/4/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/area-scan-cameras/page/8/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/area-scan-cameras/page/7/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/brc2/page/5/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/brc2/page/3/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/area-scan-cameras/page/9/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/circular-light-ar/page/2/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/brp3/page/3/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/circular-light-ar/page/3/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/circular-light-ar/page/16/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/circular-light-ar/page/15/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/circular-light-ar/page/4/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/brc2/page/2/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/brc2/page/4/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/circular-light-ar/page/14/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/bottom-glow-backlight-brl/page/4/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/brc3/page/4/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/brc3/page/5/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/brc3/page/3/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/bottom-glow-backlight-brl/page/2/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/brc3/page/2/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/bottom-glow-backlight-brl/page/8/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/bottom-glow-backlight-brl/page/7/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/bottom-glow-backlight-brl/page/3/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/brl2/page/7/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/open-hole-type-backlight-brd3/page/2/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/bottom-glow-backlight-brl/page/9/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/brl2/page/3/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/brl2/page/8/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/brl2/page/4/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/anti-vibration-lens-2/page/2/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/miniature-line-sweep-lt/page/4/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/brl2/page/2/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/line-sweep-xs3/page/4/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/no-shadow-on-the-plane-pco/page/2/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/open-hole-type-backlight-brd3/page/3/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/line-sweep-xs3/page/2/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/miniature-line-sweep-lt/page/3/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/brl2/page/9/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/miniature-line-sweep-lt/page/2/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/lar/page/2/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/line-sweep-xs3/page/3/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/light-source-controller/page/2/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/har/page/2/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/point-light-source-dl/page/2/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/parallel-backlightb-rp2/page/3/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/parallel-backlightb-rp2/page/4/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/zlt3/page/3/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/line-sweep-coaxial-coxs/page/2/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/zlt3/page/4/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/light-source-controller/page/3/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/zlt3/page/2/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/highlight-line-sweep-gxs/page/2/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/strip-light-lr2/page/6/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/fa-lens/1-1/page/2/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/strip-light-lr2/page/3/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/mono-color/page/2/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/strip-light-lr2/page/4/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/strip-light-lr2/page/2/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/strip-light-lr2/page/7/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/strip-light-lr2/page/5/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/rolling-cmos/page/3/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/area-scan-camera/page/4/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/mono-color/page/5/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/mono-color/page/4/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/gige/page/2/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/mono-color/page/3/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/mono-color/page/6/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/area-scan-camera/page/3/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/gige/page/3/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/area-scan-camera/page/2/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/rolling-cmos/page/2/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/area-scan-camera/page/7/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/area-scan-camera/page/6/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/page/7/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/page/5/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/area-scan-camera/page/5/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/page/26/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/category/lights/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/page/24/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/category/lens/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/category/trends/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/page/6/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/category/cameras/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/page/25/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/cxp6/page/2/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/camera-link/page/4/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/global-cmos/page/7/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/camera-link/page/2/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/cxp10/page/2/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/global-cmos/page/3/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/global-cmos/page/9/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/global-cmos/page/4/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/global-cmos/page/8/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/cxp12/page/2/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/mono/page/2/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/usb-3-0/page/2/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/camera-link/page/3/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/global-cmos/page/2/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/mono/page/4/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/mono/page/3/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/large-format-lens/120mp-151mp-lens/page/2/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/line-scan-lens/16k5%ce%bc/page/2/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/mono/page/5/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/mono/page/6/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/telecentric-lens/non-standard-telecentric-lens/page/2/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/telecentric-lens/2-3-65mm-standard-telecentric-lens/page/2/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/telecentric-lens/1-1-standard-telecentric-lens/page/3/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/telecentric-lens/2-3-110mm-standard-telecentric-lens/page/2/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/telecentric-lens/1-1-standard-telecentric-lens/page/2/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/telecentric-lens/page/5/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/line-scan-camera/page/2/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/color/page/2/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/8k/page/2/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/line-scan-camera/page/4/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/industrial-lens/page/12/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/line-scan-camera/page/3/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/16k/page/2/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/industrial-lens/page/13/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/backlight/page/8/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/industrial-lens/page/9/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/industrial-lens/page/14/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/industrial-lens/page/8/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/backlight/page/13/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/backlight/page/12/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/industrial-lens/page/10/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/diffuse-light/page/12/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/diffuse-light/page/14/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/diffuse-light/page/13/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/backlight/page/9/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/backlight/page/10/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/diffuse-light/page/9/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/diffuse-light/page/8/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/backlight/page/14/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/industrial-controller/page/9/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/bar-light-source/page/13/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/bar-light-source/page/8/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/industrial-controller/page/8/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/bar-light-source/page/9/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/bar-light-source/page/12/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/diffuse-light/page/10/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/bar-light-source/page/14/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/industrial-controller/page/13/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/bar-light-source/page/10/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/line-scan-cameras/page/5/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/industrial-controller/page/14/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/industrial-controller/page/10/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/circular-light-ar/page/6/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/area-scan-cameras/page/6/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/area-scan-cameras/page/5/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/circular-light-ar/page/12/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/industrial-controller/page/12/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/circular-light-ar/page/5/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/circular-light-ar/page/13/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/circular-light-ar/page/11/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/brl2/page/6/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/circular-light-ar/page/7/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/page/9/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/brl2/page/5/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/bottom-glow-backlight-brl/page/6/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/bottom-glow-backlight-brl/page/5/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/page/8/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/page/10/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/page/23/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/page/21/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/global-cmos/page/6/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/page/22/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/diffuse-light/page/11/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-tag/global-cmos/page/5/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/backlight/page/11/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/industrial-lens/page/11/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/industrial-controller/page/11/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/circular-light-ar/page/8/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/circular-light-ar/page/9/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/page/11/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/page/13/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/page/12/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/circular-light-ar/page/10/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/bar-light-source/page/11/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/page/14/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/page/19/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/page/18/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/page/15/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/page/20/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/page/16/r",
+      "reason": "HTTP 404"
+    },
+    {
+      "source": "https://etplautomation.com/products/product-category/industrial-lens/page/17/r",
+      "reason": "HTTP 404"
+    }
+  ],
+  "remaining": 0
+}
